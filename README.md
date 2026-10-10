@@ -1,12 +1,12 @@
 # CYCU1151
 
 ## Requirements
-1. Python 3.8.3
+Option 1. 建立虛擬環境：conda create --name CYCU1151 python=3.8.3 matplotlib=3.2.1 matplotlib-venn==0.11.6 numpy==1.18.2 pandas==1.2.3 scikit-learn==0.22.2.post1 scipy==1.4.1 seaborn==0.10.0 notebook
 
-2. All packages can be installed using the following command:
+Option 2. Or all packages can be installed using the following command:
 > pip install -r requirements.txt
 
-## Applying analyses to other datasets (Written by James B Isbister, james.isbister@epfl.ch)
+## Applying analyses to other datasets (Written by James B Isbister: james.isbister@epfl.ch)
 The code is designed to analyse the dataset used in the study and has not been tested for other datasets. Those wishing to apply the analyses to alternative datasets, however, must organise their data in the form that the in vivo data is given here. Particularly, data should be organised with the following directory structure (see dataset).
 
 
