@@ -1,8 +1,8 @@
 absl-py==2.1.0
 anyio==3.7.1
-appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1707233003401/work
-argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1692818318753/work
-argon2-cffi-bindings @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi-bindings_1695386740353/work
+appnope
+argon2-cffi
+argon2-cffi-bindings
 arrow==1.3.0
 asciitree==0.3.3
 ase==3.23.0
@@ -11,11 +11,11 @@ astunparse==1.6.3
 async-lru==2.0.4
 attrs==23.2.0
 babel==2.17.0
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backcall
 beautifulsoup4==4.12.2
-bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1696630167146/work
-Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989838345/work
-cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
+bleach
+Brotli
+cached-property
 cachetools==5.3.0
 certifi==2026.1.4
 cffi==1.17.1
@@ -23,15 +23,15 @@ cftime==1.6.2
 charset-normalizer==3.4.4
 comm==0.1.3
 cryptography==47.0.0
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+cycler
 debugpy==1.6.7
 decorator==4.4.2
-defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
+defusedxml
 deprecat==2.1.1
 descartes==1.1.0
 dill==0.3.6
 distinctipy==1.3.4
-entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+entrypoints
 et-xmlfile==1.1.0
 exceptiongroup==1.2.2
 executing==1.2.0
@@ -55,17 +55,17 @@ google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 grpcio==1.70.0
 h11==0.14.0
-h2 @ file:///Users/runner/miniforge3/conda-bld/h2_1633502961934/work
+h2
 h5py==3.11.0
 hpack==4.0.0
 httpcore==1.0.5
 httpx==0.27.0
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
+hyperframe
+idna
 imageio==2.28.1
 imageio-ffmpeg==0.4.8
-importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
-importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1725921340658/work
+importlib_metadata
+importlib_resources
 imutils==0.5.4
 ipykernel==6.23.0
 ipyparallel==8.8.0
@@ -74,7 +74,7 @@ ipython-genutils==0.2.0
 ipywidgets==8.1.8
 isoduration==20.11.0
 jedi==0.18.2
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1715127149914/work
+Jinja2
 joblib==1.2.0
 json5==0.9.25
 jsonpointer==3.0.0
@@ -94,7 +94,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.16
 keras==2.13.1
-kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1695380057728/work
+kiwisolver
 kneed==0.8.3
 lazy_loader==0.2
 libclang==18.1.1
@@ -102,10 +102,10 @@ littleutils==0.2.4
 llvmlite==0.36.0
 lxml==5.2.2
 Markdown==3.7
-MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1706899999219/work
+MarkupSafe
 matplotlib==3.2.1
 matplotlib-inline==0.1.6
-matplotlib-venn @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-venn_1603640976466/work
+matplotlib-venn
 MEAutility==1.5.2
 mistune==3.0.2
 moviepy==1.0.3
@@ -133,41 +133,41 @@ overrides==7.7.0
 packaging==26.2
 pandas==1.5.3
 pandas_flavor==0.7.0
-pandocfilters @ file:///home/conda/feedstock_root/build_artifacts/pandocfilters_1631603243851/work
-parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
+pandocfilters
+parso
 pathlib==1.0.1
 patsy==1.0.3
-pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1706113125309/work
-pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+pexpect
+pickleshare
 pingouin==0.3.12
-pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil-resolve-name_1694617248815/work
-platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1726613481435/work
+pkgutil_resolve_name
+platformdirs
 plotly==5.15.0
 probeinterface==0.3.0
 proglog==0.1.10
-prometheus_client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1726901976720/work
-prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1727341649933/work
+prometheus_client
+prompt_toolkit
 protobuf==4.25.6
-psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1719274606171/work
-ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+psutil
+ptyprocess
 pure-eval==0.2.2
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pybind11==2.8.1
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
+pycparser
 pydantic==1.10.7
-Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
+Pygments
 pymc3==3.11.5
-pyobjc-core @ file:///Users/runner/miniforge3/conda-bld/pyobjc-core_1633360274670/work
-pyobjc-framework-Cocoa @ file:///Users/runner/miniforge3/conda-bld/pyobjc-framework-cocoa_1636053759185/work
+pyobjc-core
+pyobjc-framework-Cocoa
 pyopenephys==1.1.6
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1724616129934/work
+pyparsing
 PyQt5==5.13.0
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.12.1
 PyQtWebEngine==5.13.0
 PyQtWebEngine-Qt5==5.15.2
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+PySocks
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
 pytz==2026.5
@@ -204,7 +204,7 @@ tensorflow==2.13.1
 tensorflow-estimator==2.13.0
 tensorflow-io-gcs-filesystem==0.34.0
 termcolor==2.4.0
-terminado @ file:///Users/runner/miniforge3/conda-bld/terminado_1710263781917/work
+terminado
 Theano==1.0.5
 Theano-PyMC==1.1.2
 threadpoolctl==3.1.0
@@ -214,16 +214,16 @@ tk==0.1.0
 tomli==2.0.1
 tornado==6.4.2
 tqdm==4.67.1
-traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
+traitlets
 types-python-dateutil==2.9.0.20240316
-typing-utils @ file:///home/conda/feedstock_root/build_artifacts/typing_utils_1622899189314/work
+typing-utils
 typing_extensions==4.13.2
 tzdata==2023.3
 uri-template==1.3.0
 urllib3==2.2.3
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
+wcwidth
 webcolors==24.6.0
-webencodings @ file:///home/conda/feedstock_root/build_artifacts/webencodings_1694681268211/work
+webencodings
 websocket-client==1.8.0
 Werkzeug==3.0.6
 widgetsnbextension==4.0.15
@@ -232,6 +232,6 @@ xarray-einstats==0.5.1
 xlrd==2.0.1
 xmltodict==0.13.0
 zarr==2.16.1
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1731262100163/work
+zipp
 zmq==0.0.0
 zstandard==0.23.0
