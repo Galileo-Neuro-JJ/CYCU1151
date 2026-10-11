@@ -1,6 +1,6 @@
 {
-	"original_data_root": "[PATH_TO_BE_SET_BY_USER]/IsbisterEtAl-SciRep2021-Data/",
-	"figures_root_directory": "[PATH_TO_BE_SET_BY_USER]/IsbisterEtAl-SciRep2021-Figures/",
+	"original_data_root": "/Users/jj/Documents/GitHub/CYCU1151/IsbisterEtAl-SciRep2021-Data/",
+	"figures_root_directory": "/Users/jj/Documents/GitHub/CYCU1151/IsbisterEtAl-SciRep2021-Data/IsbisterEtAl-SciRep2021-Figures/",
 	"number_of_processors": 8,
 	"channel_unit_pair_format": false,
 	"max_stimulation_frequency": 10.0,
@@ -48,6 +48,11 @@
 							"1Shank/S001E024F001"],
 
 	"analyses": {
+
+		"draw_spike_count_plots":{
+			"analysis_type": "SpikeCountPlots",
+			"window_length": 50.0
+		},
 
 		"SpikeCountPlots_50_post_cort": {
 			"analysis_type": "SpikeCountPlots",
@@ -139,7 +144,7 @@
 
 	
 	"analyses_to_process": ["CustomDBSCANExtra", "Unclustered", "SciRepGMMInfCrit", "CustomGaussianMixtureInfCrit", "SingleUnitStationarity", "SpikeCountPlots_50_post_cort", "CustomDBSCANExtraTimeSpanCheck"],
-	"analyses_to_process": ["CustomDBSCANExtra", "Unclustered"]
+	"analyses_to_process": ["draw_spike_count_plots"]
 	
 
 }
