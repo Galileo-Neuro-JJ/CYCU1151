@@ -158,7 +158,6 @@ pycparser
 pydantic==1.10.7
 Pygments
 pymc3==3.11.5
-pyobjc-core
 pyobjc-framework-Cocoa
 pyopenephys==1.1.6
 pyparsing
@@ -234,4 +233,4 @@ xmltodict==0.13.0
 zarr==2.16.1
 zipp
 zmq==0.0.0
-zstandard==0.23.0
+zstandard
