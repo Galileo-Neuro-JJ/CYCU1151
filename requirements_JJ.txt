@@ -233,4 +233,3 @@ xmltodict==0.13.0
 zarr==2.16.1
 zipp
 zmq==0.0.0
-zstandard
