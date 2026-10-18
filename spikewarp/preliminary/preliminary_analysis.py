@@ -550,9 +550,9 @@ def load_spikes_calc_cort_onset_and_draw_PSTHs(investigation):
 		plt.gca().xaxis.set_major_locator(MultipleLocator(xlocator))
 
 		for tick in plt.gca().xaxis.get_major_ticks():
-			tick.label.set_fontsize(10) 
+			tick.label1.set_fontsize(10) 
 		for tick in plt.gca().yaxis.get_major_ticks():
-			tick.label.set_fontsize(10) 
+			tick.label1.set_fontsize(10) 
 
 		plt.savefig(investigation['full_spikes_experiment_figures_directory'] + "StimulusSpikePSTHOverAllTrials" + extra_string + '.pdf', bbox_inches='tight')
 		plt.close()
